@@ -1,4 +1,4 @@
-#LOW CODE ASSIGNMENTS PART 2 - Pycaret Low Code Assignment
+# Pycaret Low Code 
 
 There are 5 simple steps in the pycaret workflow:
 
